@@ -3,6 +3,7 @@ Data Structure in C++
 contain multiple data structures implementation in c++ provided in well commented code && in OOP
 
 A - Double Linked List(the functions provided)
+
         1- display details
             - is_empty : to check if the list empty or not                          o(1)
             - get_size : to get the number of items in list                         o(1)
